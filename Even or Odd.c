@@ -1,10 +1,7 @@
-//Write a C program to find the given number is even or odd.
-
 #include<stdio.h>
 int main()
-
 {
-    int a;//variable  declaration
+    int a;
     printf("enter a:");
     scanf("%d",&a);
     if(a%2==0)
