@@ -1,8 +1,7 @@
-//Write a C program to find whether given triangle is scalene or isosceles or equilateral.
 #include<stdio.h>
 int main()
 {
-    int side1,side2,side3;//varaiable declaration
+    int side1,side2,side3;
     printf("enter side1:");
     scanf("%d",&side1);
     printf("enter side2:");
