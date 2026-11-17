@@ -1,10 +1,7 @@
-//Write a C program to check whether triangle is valid or not if angles are given.
-
 #include<stdio.h>
 int main()
-
 {
-    int a,b,c,x;//variable declaration
+    int a,b,c,x;
     printf("Angle a:");
     scanf("%d",&a);
     printf("Angle b:");
