@@ -1,10 +1,7 @@
-//Write a C program to find whether the person is eligible to vote or not
-
 #include <stdio.h>
-
 int main()
 {
-    int age;//variable declaration
+    int age;
     printf("enter your age:");
     scanf("%d",&age);
     if(age>=18)
