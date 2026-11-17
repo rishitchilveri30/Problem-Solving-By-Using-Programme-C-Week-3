@@ -1,8 +1,5 @@
-// C program to find whether given number is +ve or -ve or zero.
-
 #include<stdio.h>
 int main()
-
 {
     int num;
     printf("enter a number:");
